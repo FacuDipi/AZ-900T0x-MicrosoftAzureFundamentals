@@ -1,0 +1,38 @@
+IaaS:
+
+Azure Virtual Machines
+Azure Virtual Machine Scale Sets
+Azure Kubernetes Service (AKS)
+Azure Container Instances
+Azure Blob Storage
+Azure Disk Storage
+Azure File Storage
+Azure Backup
+Azure Site Recovery
+Azure ExpressRoute
+
+PaaS:
+
+Azure App Service
+Azure Functions
+Azure Logic Apps
+Azure Event Grid
+Azure Service Bus
+Azure API Management
+Azure Cosmos DB
+Azure SQL Database
+Azure Database for MySQL
+Azure Database for PostgreSQL
+
+SaaS:
+
+Office 365
+Dynamics 365
+Microsoft Teams
+Microsoft Power Platform
+Microsoft 365
+Microsoft Azure Active Directory
+Microsoft Intune
+Azure DevOps
+GitHub
+Power BI
